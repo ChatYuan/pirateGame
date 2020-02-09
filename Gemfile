@@ -1,1 +1,4 @@
-source 'http://rubygems.o
+source 'http://rubygems.org'
+
+
+# Bundle edge Rails instead: 
