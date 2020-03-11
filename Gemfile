@@ -28,4 +28,5 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 # Use unicorn as the app server
 # gem 'unicorn'
 
-# Use Capistr
+# Use Capistrano for deployment
+# gem 'capi
