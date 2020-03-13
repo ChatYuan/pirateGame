@@ -29,4 +29,4 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 # gem 'unicorn'
 
 # Use Capistrano for deployment
-# gem 'capi
+# gem 'capistrano-rails', group:
