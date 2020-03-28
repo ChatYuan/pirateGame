@@ -38,4 +38,5 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'tzinfo-data', platforms: [:mingw, :mswin]
 group :development, :test do
   gem 'spring-commands-rspec'
-  ge
+  gem 'rspec-rails'
+  gem 'gua
