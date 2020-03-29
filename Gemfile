@@ -39,4 +39,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin]
 group :development, :test do
   gem 'spring-commands-rspec'
   gem 'rspec-rails'
-  gem 'gua
+  gem 'guard-rspec'
+  gem 'rb-fsevent' i
