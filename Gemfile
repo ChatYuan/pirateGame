@@ -42,4 +42,5 @@ group :development, :test do
   gem 'guard-rspec'
   gem 'rb-fsevent' if `uname` =~ /Darwin/
 end
-gem 
+gem 'bcrypt', '~> 3.1.7'
+gem 'shoul
