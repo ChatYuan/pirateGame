@@ -43,4 +43,6 @@ group :development, :test do
   gem 'rb-fsevent' if `uname` =~ /Darwin/
 end
 gem 'bcrypt', '~> 3.1.7'
-gem 'shoul
+gem 'shoulda-matchers'
+gem 'minitest'
+ge
