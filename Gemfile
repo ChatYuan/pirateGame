@@ -45,4 +45,4 @@ end
 gem 'bcrypt', '~> 3.1.7'
 gem 'shoulda-matchers'
 gem 'minitest'
-ge
+gem 'bootstrap-sass', '
