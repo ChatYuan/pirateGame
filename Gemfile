@@ -46,4 +46,4 @@ gem 'bcrypt', '~> 3.1.7'
 gem 'shoulda-matchers'
 gem 'minitest'
 gem 'bootstrap-sass', '~>3.2.0'
-gem 'autoprefixe
+gem 'autoprefixer-rails'
