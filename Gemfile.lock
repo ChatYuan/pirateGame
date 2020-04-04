@@ -1,2 +1,4 @@
 GEM
-  remote: http:/
+  remote: http://rubygems.org/
+  specs:
+    actionmailer (4
