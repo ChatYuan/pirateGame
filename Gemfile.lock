@@ -5,4 +5,5 @@ GEM
       actionpack (= 4.1.8)
       actionview (= 4.1.8)
       mail (~> 2.5, >= 2.5.4)
-    a
+    actionpack (4.1.8)
+      actionview
