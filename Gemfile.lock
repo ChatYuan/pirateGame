@@ -7,4 +7,5 @@ GEM
       mail (~> 2.5, >= 2.5.4)
     actionpack (4.1.8)
       actionview (= 4.1.8)
-      act
+      activesupport (= 4.1.8)
+      rack
