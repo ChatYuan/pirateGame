@@ -8,4 +8,5 @@ GEM
     actionpack (4.1.8)
       actionview (= 4.1.8)
       activesupport (= 4.1.8)
-      rack
+      rack (~> 1.5.2)
+      rack-tes
