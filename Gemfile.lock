@@ -15,4 +15,5 @@ GEM
       builder (~> 3.1)
       erubis (~> 2.7.0)
     activemodel (4.1.8)
-      acti
+      activesupport (= 4.1.8)
+    
