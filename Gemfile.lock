@@ -21,4 +21,5 @@ GEM
       activemodel (= 4.1.8)
       activesupport (= 4.1.8)
       arel (~> 5.0.0)
-    activesu
+    activesupport (4.1.8)
+      i18n (
