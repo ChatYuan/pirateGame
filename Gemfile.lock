@@ -22,4 +22,5 @@ GEM
       activesupport (= 4.1.8)
       arel (~> 5.0.0)
     activesupport (4.1.8)
-      i18n (
+      i18n (~> 0.6, >= 0.6.9)
+      json 
