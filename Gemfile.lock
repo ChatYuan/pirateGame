@@ -26,4 +26,5 @@ GEM
       json (~> 1.7, >= 1.7.7)
       minitest (~> 5.1)
       thread_safe (~> 0.1)
-      tzinf
+      tzinfo (~> 1.1)
+    arel 
