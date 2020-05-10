@@ -27,4 +27,5 @@ GEM
       minitest (~> 5.1)
       thread_safe (~> 0.1)
       tzinfo (~> 1.1)
-    arel 
+    arel (5.0.1.20140414130214)
+  
