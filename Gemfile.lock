@@ -29,4 +29,6 @@ GEM
       tzinfo (~> 1.1)
     arel (5.0.1.20140414130214)
     autoprefixer-rails (6.3.1)
-      
+      execjs
+      json
+    bcry
