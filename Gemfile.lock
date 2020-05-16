@@ -31,4 +31,5 @@ GEM
     autoprefixer-rails (6.3.1)
       execjs
       json
-    bcry
+    bcrypt (3.1.10-x86-mingw32)
+    bootst
