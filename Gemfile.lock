@@ -34,4 +34,5 @@ GEM
     bcrypt (3.1.10-x86-mingw32)
     bootstrap-sass (3.2.0.2)
       sass (~> 3.2)
-    buil
+    builder (3.2.2)
+    coderay (1.1
