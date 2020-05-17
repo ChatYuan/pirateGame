@@ -33,4 +33,5 @@ GEM
       json
     bcrypt (3.1.10-x86-mingw32)
     bootstrap-sass (3.2.0.2)
-      s
+      sass (~> 3.2)
+    buil
