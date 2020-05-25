@@ -40,4 +40,5 @@ GEM
       coffee-script (>= 2.2.0)
       railties (>= 4.0.0, < 5.0)
     coffee-script (2.4.1)
-      coffee-s
+      coffee-script-source
+      exe
