@@ -42,4 +42,5 @@ GEM
     coffee-script (2.4.1)
       coffee-script-source
       execjs
-    coffee-script-source
+    coffee-script-source (1.10.0)
+    diff-lcs
