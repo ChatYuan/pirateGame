@@ -43,4 +43,6 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.10.0)
-    diff-lcs
+    diff-lcs (1.2.5)
+    erubis (2.7.0)
+    execj
