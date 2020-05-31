@@ -46,4 +46,5 @@ GEM
     diff-lcs (1.2.5)
     erubis (2.7.0)
     execjs (2.6.0)
-    ffi (1.9.1
+    ffi (1.9.10-x86-mingw32)
+    formatador (
