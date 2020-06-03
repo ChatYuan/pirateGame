@@ -49,3 +49,4 @@ GEM
     ffi (1.9.10-x86-mingw32)
     formatador (0.2.5)
     guard (2.13.0)
+      formatador (>= 0
