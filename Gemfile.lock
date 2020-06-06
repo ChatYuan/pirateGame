@@ -52,3 +52,5 @@ GEM
       formatador (>= 0.2.4)
       listen (>= 2.7, <= 4.0)
       lumberjack (~> 1.0)
+      nenv (~> 0.1)
+      
