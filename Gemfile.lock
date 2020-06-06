@@ -50,4 +50,5 @@ GEM
     formatador (0.2.5)
     guard (2.13.0)
       formatador (>= 0.2.4)
-      listen (>= 2.7, <= 4
+      listen (>= 2.7, <= 4.0)
+      lumberjack (~> 1.0)
