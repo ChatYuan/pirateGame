@@ -57,4 +57,5 @@ GEM
       pry (>= 0.9.12)
       shellany (~> 0.0)
       thor (>= 0.18.1)
- 
+    guard-compat (1.2.1)
+    guard-
