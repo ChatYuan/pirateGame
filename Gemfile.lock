@@ -58,4 +58,5 @@ GEM
       shellany (~> 0.0)
       thor (>= 0.18.1)
     guard-compat (1.2.1)
-    guard-
+    guard-rspec (4.6.4)
+      guard (~>
