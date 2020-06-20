@@ -61,4 +61,5 @@ GEM
     guard-rspec (4.6.4)
       guard (~> 2.1)
       guard-compat (~> 1.1)
-      rspec (>
+      rspec (>= 2.99.0, < 4.0)
+    hike (1
