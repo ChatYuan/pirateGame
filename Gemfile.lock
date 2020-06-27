@@ -67,4 +67,5 @@ GEM
     jbuilder (2.4.0)
       activesupport (>= 3.0.0, < 5.1)
       multi_json (~> 1.2)
-    jquery-rails (3.1.4
+    jquery-rails (3.1.4)
+      railtie
