@@ -75,4 +75,5 @@ GEM
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9)
     lumberjack (1.0.10)
-    ma
+    mail (2.6.3)
+      mime-types
