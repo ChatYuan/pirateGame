@@ -76,4 +76,5 @@ GEM
       rb-inotify (>= 0.9)
     lumberjack (1.0.10)
     mail (2.6.3)
-      mime-types
+      mime-types (>= 1.16, < 3)
+    method_sourc
