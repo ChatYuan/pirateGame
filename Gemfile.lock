@@ -79,4 +79,5 @@ GEM
       mime-types (>= 1.16, < 3)
     method_source (0.8.2)
     mime-types (2.99)
-    minit
+    minitest (5.8.4)
+    mu
