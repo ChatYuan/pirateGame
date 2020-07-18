@@ -83,4 +83,5 @@ GEM
     multi_json (1.11.2)
     nenv (0.2.0)
     notiffany (0.0.8)
-   
+      nenv (~> 0.1)
+      she
