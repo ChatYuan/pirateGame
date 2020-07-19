@@ -84,4 +84,5 @@ GEM
     nenv (0.2.0)
     notiffany (0.0.8)
       nenv (~> 0.1)
-      she
+      shellany (~> 0.0)
+    pry 
