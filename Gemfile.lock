@@ -91,3 +91,5 @@ GEM
       slop (~> 3.4)
     rack (1.5.5)
     rack-test (0.6.3)
+      rack (>= 1.0)
+    ra
