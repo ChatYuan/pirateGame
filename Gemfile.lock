@@ -98,4 +98,5 @@ GEM
       actionview (= 4.1.8)
       activemodel (= 4.1.8)
       activerecord (= 4.1.8)
-      actives
+      activesupport (= 4.1.8)
+      
