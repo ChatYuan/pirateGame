@@ -95,4 +95,5 @@ GEM
     rails (4.1.8)
       actionmailer (= 4.1.8)
       actionpack (= 4.1.8)
-      actionview (=
+      actionview (= 4.1.8)
+      activemodel 
