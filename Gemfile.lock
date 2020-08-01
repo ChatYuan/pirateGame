@@ -97,4 +97,5 @@ GEM
       actionpack (= 4.1.8)
       actionview (= 4.1.8)
       activemodel (= 4.1.8)
-      activerec
+      activerecord (= 4.1.8)
+      actives
