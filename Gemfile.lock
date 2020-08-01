@@ -96,4 +96,5 @@ GEM
       actionmailer (= 4.1.8)
       actionpack (= 4.1.8)
       actionview (= 4.1.8)
-      activemodel 
+      activemodel (= 4.1.8)
+      activerec
