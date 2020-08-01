@@ -94,4 +94,5 @@ GEM
       rack (>= 1.0)
     rails (4.1.8)
       actionmailer (= 4.1.8)
-      actionpack (=
+      actionpack (= 4.1.8)
+      actionview (=
