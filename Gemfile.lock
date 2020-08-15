@@ -104,4 +104,5 @@ GEM
       sprockets-rails (~> 2.0)
     railties (4.1.8)
       actionpack (= 4.1.8)
-      activesuppo
+      activesupport (= 4.1.8)
+      rake (>
