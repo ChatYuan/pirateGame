@@ -114,4 +114,5 @@ GEM
     rdoc (4.2.1)
       json (~> 1.4)
     rspec (3.4.0)
-      rspec-co
+      rspec-core (~> 3.4.0)
+      rspec-expec
