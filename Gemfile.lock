@@ -115,4 +115,5 @@ GEM
       json (~> 1.4)
     rspec (3.4.0)
       rspec-core (~> 3.4.0)
-      rspec-expec
+      rspec-expectations (~> 3.4.0)
+      
