@@ -118,4 +118,5 @@ GEM
       rspec-expectations (~> 3.4.0)
       rspec-mocks (~> 3.4.0)
     rspec-core (3.4.1)
-      rspec-sup
+      rspec-support (~> 3.4.0)
+    rspec-exp
