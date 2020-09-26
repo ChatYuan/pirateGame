@@ -126,4 +126,5 @@ GEM
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.4.0)
     rspec-rails (3.4.0)
-      actionpack (>= 3.0
+      actionpack (>= 3.0, < 4.3)
+      activesup
