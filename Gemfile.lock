@@ -128,4 +128,5 @@ GEM
     rspec-rails (3.4.0)
       actionpack (>= 3.0, < 4.3)
       activesupport (>= 3.0, < 4.3)
-      railtie
+      railties (>= 3.0, < 4.3)
+      rspec-core 
