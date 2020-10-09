@@ -131,4 +131,5 @@ GEM
       railties (>= 3.0, < 4.3)
       rspec-core (~> 3.4.0)
       rspec-expectations (~> 3.4.0)
-      rspec-mock
+      rspec-mocks (~> 3.4.0)
+      rspec-support (
