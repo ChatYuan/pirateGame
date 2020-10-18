@@ -143,4 +143,5 @@ GEM
     sdoc (0.4.1)
       json (~> 1.7, >= 1.7.7)
       rdoc (~> 4.0)
-    s
+    shellany (0.0.1)
+    shoul
