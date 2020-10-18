@@ -144,4 +144,5 @@ GEM
       json (~> 1.7, >= 1.7.7)
       rdoc (~> 4.0)
     shellany (0.0.1)
-    shoul
+    shoulda-matchers (3.1.0)
+      a
