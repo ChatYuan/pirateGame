@@ -148,4 +148,5 @@ GEM
       activesupport (>= 4.0.0)
     slop (3.6.0)
     spring (1.6.2)
-    spring-comm
+    spring-commands-rspec (1.0.4)
+      spring (>=
