@@ -149,4 +149,5 @@ GEM
     slop (3.6.0)
     spring (1.6.2)
     spring-commands-rspec (1.0.4)
-      spring (>=
+      spring (>= 0.9.1)
+    sprockets (2.
