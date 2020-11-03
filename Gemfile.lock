@@ -157,4 +157,5 @@ GEM
       tilt (~> 1.1, != 1.3.0)
     sprockets-rails (2.3.3)
       actionpack (>= 3.0)
-      activesu
+      activesupport (>= 3.0)
+      sprockets
