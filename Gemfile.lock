@@ -158,4 +158,5 @@ GEM
     sprockets-rails (2.3.3)
       actionpack (>= 3.0)
       activesupport (>= 3.0)
-      sprockets
+      sprockets (>= 2.8, < 4.0)
+    sqlite3 (1.3.
