@@ -159,4 +159,5 @@ GEM
       actionpack (>= 3.0)
       activesupport (>= 3.0)
       sprockets (>= 2.8, < 4.0)
-    sqlite3 (1.3.
+    sqlite3 (1.3.11-x86-mingw32)
+    thor (
