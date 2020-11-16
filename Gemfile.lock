@@ -165,4 +165,5 @@ GEM
     tilt (1.4.1)
     turbolinks (2.5.3)
       coffee-rails
-    t
+    tzinfo (1.2.2)
+      thread_safe
