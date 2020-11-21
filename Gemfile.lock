@@ -167,4 +167,6 @@ GEM
       coffee-rails
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
-    tzinfo-data (1.2016.1
+    tzinfo-data (1.2016.1)
+      tzinfo (>= 1.0.0)
+   
