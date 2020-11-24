@@ -174,4 +174,7 @@ GEM
       json (>= 1.8.0)
 
 PLATFORMS
-  x86-ming
+  x86-mingw32
+
+DEPENDENCIES
+  autopre
