@@ -186,4 +186,6 @@ DEPENDENCIES
   jquery-rails
   minitest
   rails (= 4.1.8)
-  rspec
+  rspec-rails
+  sass-rails (~> 4.0.3)
+  sdoc
