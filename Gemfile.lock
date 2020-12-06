@@ -192,4 +192,6 @@ DEPENDENCIES
   shoulda-matchers
   spring-commands-rspec
   sqlite3
-  turbo
+  turbolinks
+  tzinfo-data
+  uglifi
