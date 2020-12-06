@@ -189,4 +189,5 @@ DEPENDENCIES
   rspec-rails
   sass-rails (~> 4.0.3)
   sdoc (~> 0.4.0)
-  shoulda-m
+  shoulda-matchers
+  spring-commands-
