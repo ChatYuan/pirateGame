@@ -190,4 +190,6 @@ DEPENDENCIES
   sass-rails (~> 4.0.3)
   sdoc (~> 0.4.0)
   shoulda-matchers
-  spring-commands-
+  spring-commands-rspec
+  sqlite3
+  turbo
