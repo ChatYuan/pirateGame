@@ -1,1 +1,1 @@
-// This is a man
+// This is a manifest file that'll be com
