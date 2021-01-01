@@ -2,4 +2,4 @@
 // listed below.
 //
 // Any JavaScript/Coffee file within this directory, lib/assets/javascripts, vendor/assets/javascripts,
-// or vendor/assets/javascript
+// or vendor/assets/javascripts of plugins, if any, ca
