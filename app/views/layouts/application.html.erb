@@ -1,0 +1,25 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>StocktonCares</title>
+  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+  <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+  <%= csrf_meta_tags %>
+</head>
+<body>
+<div class="container-fluid">
+	<div class="row header">
+		<div class="col-mid-9">
+			<span>
+
+			</span>
+			
+		</div>
+	</div>
+	
+	<%= yield %>
+</div>	
+
+</body>
+</html>
