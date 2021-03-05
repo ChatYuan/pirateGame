@@ -1,2 +1,2 @@
 #!/usr/bin/env ruby.exe
-A
+APP_PATH = File.expand_path('../../con
