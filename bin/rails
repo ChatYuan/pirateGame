@@ -1,2 +1,2 @@
 #!/usr/bin/env ruby.exe
-APP_PATH = File.expand_path('../../con
+APP_PATH = File.expand_path('../../config/application',  __FILE__)
