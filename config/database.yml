@@ -11,4 +11,6 @@ default: &default
 
 development:
   <<: *default
-  database: db/
+  database: db/development.sqlite3
+
+# War
