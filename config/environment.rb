@@ -1,2 +1,2 @@
 # Load the Rails application.
-require File.exp
+require File.expand_path('../application', __FIL
