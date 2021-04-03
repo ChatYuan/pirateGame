@@ -1,1 +1,1 @@
-R
+Rails.application.configure
