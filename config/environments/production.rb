@@ -14,4 +14,4 @@ Rails.application.configure do
   config.consider_all_requests_local       = false
   config.action_controller.perform_caching = true
 
-  # Enable Rack::Ca
+  # Enable Rack::Cache to put a simple HTT
