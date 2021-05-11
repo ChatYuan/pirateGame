@@ -30,4 +30,6 @@ Rails.application.configure do
   config.assets.compile = false
 
   # Generate digests for assets URLs.
-  confi
+  config.assets.digest = true
+
+  # `co
