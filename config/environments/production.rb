@@ -32,4 +32,4 @@ Rails.application.configure do
   # Generate digests for assets URLs.
   config.assets.digest = true
 
-  # `config.assets.precompile` and `
+  # `config.assets.precompile` and `config.assets.version` h
