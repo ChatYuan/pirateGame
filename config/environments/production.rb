@@ -34,4 +34,4 @@ Rails.application.configure do
 
   # `config.assets.precompile` and `config.assets.version` have moved to config/initializers/assets.rb
 
-  # Specifies th
+  # Specifies the header that your server uses for
