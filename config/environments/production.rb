@@ -42,4 +42,6 @@ Rails.application.configure do
   # config.force_ssl = true
 
   # Set to :debug to see everything in the log.
-  config.log_level = :i
+  config.log_level = :info
+
+  # Prepend all log lines wit
