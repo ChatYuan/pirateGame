@@ -45,4 +45,6 @@ Rails.application.configure do
   config.log_level = :info
 
   # Prepend all log lines with the following tags.
-  # config.log_tags = [ :subdomain, :uui
+  # config.log_tags = [ :subdomain, :uuid ]
+
+  # Use a different log
