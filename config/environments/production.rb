@@ -47,4 +47,5 @@ Rails.application.configure do
   # Prepend all log lines with the following tags.
   # config.log_tags = [ :subdomain, :uuid ]
 
-  # Use a different logger for distributed setups
+  # Use a different logger for distributed setups.
+  # config.logger
