@@ -65,4 +65,4 @@ Rails.application.configure do
   config.i18n.fallbacks = true
 
   # Send deprecation notices to registered listeners.
-  config
+  config.active_support.deprecation = :no
