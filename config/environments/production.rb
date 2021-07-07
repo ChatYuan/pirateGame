@@ -70,4 +70,4 @@ Rails.application.configure do
   # Disable automatic flushing of the log to improve performance.
   # config.autoflush_log = false
 
-  # Use d
+  # Use default logging formatter so that 
