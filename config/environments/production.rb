@@ -68,4 +68,6 @@ Rails.application.configure do
   config.active_support.deprecation = :notify
 
   # Disable automatic flushing of the log to improve performance.
-  # config.autoflu
+  # config.autoflush_log = false
+
+  # Use d
