@@ -74,4 +74,4 @@ Rails.application.configure do
   config.log_formatter = ::Logger::Formatter.new
 
   # Do not dump schema after migrations.
-  co
+  config.active_record.dump_schema_
