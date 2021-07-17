@@ -1,1 +1,2 @@
-Rails.appli
+Rails.application.configure do
+  # Sett
