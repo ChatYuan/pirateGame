@@ -1,2 +1,2 @@
 Rails.application.configure do
-  # Sett
+  # Settings specified here 
