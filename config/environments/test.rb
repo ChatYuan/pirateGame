@@ -13,4 +13,4 @@ Rails.application.configure do
   config.eager_load = false
 
   # Configure static asset server for tests with Cache-Control for performance.
-  co
+  config.serve_static_assets 
