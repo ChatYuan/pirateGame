@@ -17,4 +17,5 @@ Rails.application.configure do
   config.static_cache_control = 'public, max-age=3600'
 
   # Show full error reports and disable caching.
-  config.consider_all_requests_local       = tr
+  config.consider_all_requests_local       = true
+  config.action_controlle
