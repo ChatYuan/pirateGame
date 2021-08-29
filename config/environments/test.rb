@@ -24,4 +24,6 @@ Rails.application.configure do
   config.action_dispatch.show_exceptions = false
 
   # Disable request forgery protection in test environment.
-  config.action_controller.allow_forgery_protec
+  config.action_controller.allow_forgery_protection = false
+
+  # Tell Action Mai
