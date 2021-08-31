@@ -26,4 +26,4 @@ Rails.application.configure do
   # Disable request forgery protection in test environment.
   config.action_controller.allow_forgery_protection = false
 
-  # Tell Action Mai
+  # Tell Action Mailer not to deliver emai
