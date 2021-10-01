@@ -4,4 +4,4 @@
 Rails.application.config.assets.version = '1.0'
 
 # Precompile additional assets.
-# application.j
+# application.js, application.css, and a
