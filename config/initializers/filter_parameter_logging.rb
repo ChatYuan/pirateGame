@@ -1,1 +1,1 @@
-# Be sure to restart yo
+# Be sure to restart your server when you modify t
