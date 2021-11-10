@@ -8,4 +8,5 @@
 #
 # In views, this is aliased to just `t`:
 #
-#  
+#     <%= t('hello') %>
+#
