@@ -10,3 +10,4 @@
 #
 #     <%= t('hello') %>
 #
+# To use a different locale, se
