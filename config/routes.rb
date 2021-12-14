@@ -8,4 +8,6 @@ Rails.application.routes.draw do
    root 'home#index'
 
   # Example of regular route:
-  #   get 'products/:id' => '
+  #   get 'products/:id' => 'catalog#view'
+
+  # Example of na
