@@ -18,4 +18,5 @@ Rails.application.routes.draw do
 
   # Example resource route with options:
   #   resources :products do
-  #     me
+  #     member do
+  #       get 'short
