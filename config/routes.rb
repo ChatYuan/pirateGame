@@ -26,4 +26,6 @@ Rails.application.routes.draw do
   #     collection do
   #       get 'sold'
   #     end
-  #   
+  #   end
+
+  # Example resource 
