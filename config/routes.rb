@@ -34,4 +34,4 @@ Rails.application.routes.draw do
   #     resource :seller
   #   end
 
-  # Example resource route wit
+  # Example resource route with more complex sub-resourc
