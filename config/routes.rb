@@ -29,4 +29,5 @@ Rails.application.routes.draw do
   #   end
 
   # Example resource route with sub-resources:
-  #   resou
+  #   resources :products do
+  #     resources 
