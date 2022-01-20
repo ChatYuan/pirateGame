@@ -43,4 +43,5 @@ Rails.application.routes.draw do
   #   end
 
   # Example resource route with concerns:
+  #   concern :toggleable do
  
