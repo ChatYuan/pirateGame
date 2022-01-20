@@ -49,4 +49,4 @@ Rails.application.routes.draw do
   #   resources :posts, concerns: :toggleable
   #   resources :photos, concerns: :toggleable
 
-  # Example res
+  # Example resource route within a na
