@@ -46,4 +46,5 @@ Rails.application.routes.draw do
   #   concern :toggleable do
   #     post 'toggle'
   #   end
-  #   resources :posts, con
+  #   resources :posts, concerns: :toggleable
+  #
