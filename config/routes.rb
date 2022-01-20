@@ -42,4 +42,5 @@ Rails.application.routes.draw do
   #     end
   #   end
 
-  # Example 
+  # Example resource route with concerns:
+ 
