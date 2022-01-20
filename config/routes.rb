@@ -47,4 +47,6 @@ Rails.application.routes.draw do
   #     post 'toggle'
   #   end
   #   resources :posts, concerns: :toggleable
-  #   resources :photos, concer
+  #   resources :photos, concerns: :toggleable
+
+  # Example res
