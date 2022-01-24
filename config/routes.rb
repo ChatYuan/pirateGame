@@ -49,4 +49,5 @@ Rails.application.routes.draw do
   #   resources :posts, concerns: :toggleable
   #   resources :photos, concerns: :toggleable
 
-  # Example resource route within a na
+  # Example resource route within a namespace:
+  #   namespace :admi
