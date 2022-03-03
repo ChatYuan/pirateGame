@@ -1,1 +1,1 @@
-# This file is used by Rack-based se
+# This file is used by Rack-based servers to start the applic
