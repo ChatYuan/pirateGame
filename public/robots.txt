@@ -1,1 +1,1 @@
-# See http://www.robotstx
+# See http://www.robotstxt.org/robotstxt.html for docum
