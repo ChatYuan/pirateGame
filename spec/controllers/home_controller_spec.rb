@@ -1,3 +1,3 @@
 require 'rails_helper'
 
-RSpec.describe Home
+RSpec.describe HomeController, type: :c
