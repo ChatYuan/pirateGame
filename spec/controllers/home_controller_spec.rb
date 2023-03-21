@@ -2,4 +2,5 @@ require 'rails_helper'
 
 RSpec.describe HomeController, type: :controller do
 
-  describ
+  describe "GET #index" do
+    it "returns ht
