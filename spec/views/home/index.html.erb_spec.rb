@@ -1,3 +1,3 @@
 require 'rails_helper'
 
-RSpec.d
+RSpec.describe "home/index.html
