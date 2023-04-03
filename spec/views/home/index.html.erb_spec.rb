@@ -1,3 +1,4 @@
 require 'rails_helper'
 
-RSpec.describe "home/index.html
+RSpec.describe "home/index.html.erb", type: :view do
+  pending "a
